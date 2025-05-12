@@ -1,10 +1,10 @@
 {
   "name": "contador",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "api/relationship-time.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "nodemon api/relationship-time.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
